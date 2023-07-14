@@ -1,0 +1,17 @@
+Training time: 0.702111s; Prediction time: 0.137084s
+positive:  {'precision': 0.6634146341463415, 'recall': 0.6601941747572816, 'f1-score': 0.661800486618005, 'support': 206}
+negative:  {'precision': 0.6422018348623854, 'recall': 0.6896551724137931, 'f1-score': 0.665083135391924, 'support': 203}
+Training time: 0.672015s; Prediction time: 0.145620s
+positive:  {'precision': 0.6634146341463415, 'recall': 0.6601941747572816, 'f1-score': 0.661800486618005, 'support': 206}
+negative:  {'precision': 0.6422018348623854, 'recall': 0.6896551724137931, 'f1-score': 0.665083135391924, 'support': 203}
+Training time: 0.713424s; Prediction time: 0.134830s
+positive:  {'precision': 0.6634146341463415, 'recall': 0.6601941747572816, 'f1-score': 0.661800486618005, 'support': 206}
+negative:  {'precision': 0.6422018348623854, 'recall': 0.6896551724137931, 'f1-score': 0.665083135391924, 'support': 203}
+Training time: 0.689501s; Prediction time: 0.126992s
+positive:  {'precision': 0.6634146341463415, 'recall': 0.6601941747572816, 'f1-score': 0.661800486618005, 'support': 206}
+negative:  {'precision': 0.6422018348623854, 'recall': 0.6896551724137931, 'f1-score': 0.665083135391924, 'support': 203}
+Training time: 0.700769s; Prediction time: 0.132647s
+positive:  {'precision': 0.6634146341463415, 'recall': 0.6601941747572816, 'f1-score': 0.661800486618005, 'support': 206}
+negative:  {'precision': 0.6422018348623854, 'recall': 0.6896551724137931, 'f1-score': 0.665083135391924, 'support': 203}
+Average training time: 0.695564s
+Average prediction time: 0.135435s
